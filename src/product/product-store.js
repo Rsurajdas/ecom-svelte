@@ -30,7 +30,7 @@ const products = writable([
     isFavorite: false,
   },
   {
-    productName: "Yumitos Chilli Sprinkled Potato Chips",
+    productName: "Chilli Sprinkled Potato Chips",
     weight: "100g",
     price: "₹150.00",
     productImg: "./assets/image/4.png",
